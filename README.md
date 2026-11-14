@@ -2,7 +2,7 @@
 
 Audio wrapper for classic Windows games: DirectSound, DirectSound3D, EAX, A3D 1.x and OpenAL, with XAudio2 output.
 
-**For 32-bit games on Windows 10 and 11.**
+**For 32-bit games on Windows 8 up to Windows 11.**
 
 ## Installation
 
