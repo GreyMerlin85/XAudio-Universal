@@ -79,3 +79,7 @@ Remove the added files and restore the original files from your backup.
 ## Components
 
 Based on DSOAL, OpenAL Soft and eaxefx and indirectsound re-a3d-api idea.
+
+## Acknowledgements
+
+This wrapper was developed with extensive AI assistance using Claude Code, including substantial code generation, debugging, and implementation work.
